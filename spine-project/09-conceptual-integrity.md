@@ -1,6 +1,6 @@
-# Week 7 Deliverable — Conceptual Integrity
+# Unit 8 Deliverable — Conceptual Integrity
 
-**Week:** 7 — Conceptual Integrity
+**Unit:** 8 — Conceptual Integrity
 **Reading:** *The Mythical Man-Month* (selected essays) — Brooks
 
 ---
@@ -27,4 +27,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-07.md](../weeks/week-07.md)*
+*See unit notes: [../units/unit-08.md](../units/unit-08.md)*

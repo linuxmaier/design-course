@@ -1,6 +1,7 @@
-# Week 2 — Reframing
+# Unit 2 — Reframing
 
 **Reading:** *What's Your Problem?* — Wedell-Wedellsborg (2020)
+**Load:** Light.
 
 ## Reading notes
 
@@ -24,10 +25,10 @@
 
 ## Reflections
 
-*After completing the week: what changed? What are you carrying forward?*
+*After completing the unit: what changed? What are you carrying forward?*
 
 ---
 
 ## Connections
 
-*Links to other weeks or spine project files where this week's ideas show up.*
+*Links to other units or spine project files where this unit's ideas show up.*

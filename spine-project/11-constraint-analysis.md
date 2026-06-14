@@ -1,6 +1,6 @@
-# Week 8 Deliverable — Constraint Analysis
+# Unit 9 Deliverable — Constraint Analysis
 
-**Week:** 8 — Constraints and Flow
+**Unit:** 9 — Constraints and Flow
 **Reading:** *The Goal* — Goldratt
 
 ---
@@ -29,4 +29,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-08.md](../weeks/week-08.md)*
+*See unit notes: [../units/unit-09.md](../units/unit-09.md)*

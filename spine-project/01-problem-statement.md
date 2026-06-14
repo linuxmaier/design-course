@@ -1,6 +1,6 @@
-# Week 1 Deliverable — Problem Statement
+# Unit 1 Deliverable — Problem Statement
 
-**Week:** 1 — The Diagnosis Reflex
+**Unit:** 1 — The Diagnosis Reflex
 **Reading:** *Are Your Lights On?* — Gause & Weinberg
 
 ---
@@ -35,4 +35,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-01.md](../weeks/week-01.md)*
+*See unit notes: [../units/unit-01.md](../units/unit-01.md)*

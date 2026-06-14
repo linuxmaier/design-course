@@ -1,6 +1,7 @@
-# Week 3 — Strategy as Honest Diagnosis
+# Unit 3 — Strategy as Honest Diagnosis
 
 **Reading:** *Good Strategy / Bad Strategy* — Rumelt (2011)
+**Load:** Moderate.
 
 ## Reading notes
 
@@ -24,10 +25,12 @@
 
 ## Reflections
 
-*After completing the week: what changed? What are you carrying forward?*
+*After completing the unit: what changed? What are you carrying forward?*
 
 ---
 
 ## Connections
 
-*Links to other weeks or spine project files where this week's ideas show up.*
+*Links to other units or spine project files where this unit's ideas show up.*
+
+> **Next: Consolidation 1 — Framing.** Before starting Module 2, complete [`spine-project/04-consolidation-framing.md`](../spine-project/04-consolidation-framing.md). No new reading.

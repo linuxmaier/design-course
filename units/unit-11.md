@@ -1,6 +1,7 @@
-# Week 10 — Intent Over Plans
+# Unit 11 — Intent Over Plans
 
 **Reading:** *The Art of Action* — Bungay (2011)
+**Load:** Moderate.
 
 ## Reading notes
 
@@ -18,16 +19,16 @@
 
 *Working notes toward the assignment. Drafts, dead ends, thinking-out-loud.*
 
-**Assignment deliverable:** [`spine-project/10-commanders-intent.md`](../spine-project/10-commanders-intent.md)
+**Assignment deliverable:** [`spine-project/13-commanders-intent.md`](../spine-project/13-commanders-intent.md)
 
 ---
 
 ## Reflections
 
-*After completing the week: what changed? What are you carrying forward?*
+*After completing the unit: what changed? What are you carrying forward?*
 
 ---
 
 ## Connections
 
-*Links to other weeks or spine project files where this week's ideas show up.*
+*Links to other units or spine project files where this unit's ideas show up.*

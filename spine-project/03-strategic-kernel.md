@@ -1,6 +1,6 @@
-# Week 3 Deliverable — Strategic Kernel
+# Unit 3 Deliverable — Strategic Kernel
 
-**Week:** 3 — Strategy as Honest Diagnosis
+**Unit:** 3 — Strategy as Honest Diagnosis
 **Reading:** *Good Strategy / Bad Strategy* — Rumelt
 
 ---
@@ -29,4 +29,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-03.md](../weeks/week-03.md)*
+*See unit notes: [../units/unit-03.md](../units/unit-03.md)*

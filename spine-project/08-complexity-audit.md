@@ -1,6 +1,6 @@
-# Week 6 Deliverable — Complexity Audit
+# Unit 7 Deliverable — Complexity Audit
 
-**Week:** 6 — Managing Complexity
+**Unit:** 7 — Managing Complexity
 **Reading:** *A Philosophy of Software Design* — Ousterhout
 
 ---
@@ -27,4 +27,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-06.md](../weeks/week-06.md)*
+*See unit notes: [../units/unit-07.md](../units/unit-07.md)*

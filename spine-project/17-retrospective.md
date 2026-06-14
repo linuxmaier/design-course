@@ -1,13 +1,13 @@
-# Week 12 Deliverable — Retrospective
+# Unit 14 Deliverable — Retrospective
 
-**Week:** 12 — Synthesis
-**Reading:** None (no new reading this week)
+**Unit:** 14 — Synthesis
+**Reading:** None (no new reading this unit)
 
 ---
 
 ## Part 1 — Written retrospective
 
-**1. How did your problem framing change from Week 1 to now?**
+**1. How did your problem framing change from Unit 1 to now?**
 
 *Show the before and after.*
 
@@ -23,7 +23,7 @@
 
 ## Part 2 — Revised deliverables
 
-*Updated versions of Week 1–3 deliverables, reflecting everything learned. The question they should answer: did your understanding of the problem actually change?*
+*Updated versions of your Module 1 deliverables (Units 1–3), reflecting everything learned. The question they should answer: did your understanding of the problem actually change?*
 
 ### Revised problem statement
 
@@ -39,4 +39,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-12.md](../weeks/week-12.md)*
+*See unit notes: [../units/unit-14.md](../units/unit-14.md)*

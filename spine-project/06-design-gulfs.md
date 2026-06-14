@@ -1,7 +1,7 @@
-# Week 5 Deliverable — Design Gulfs
+# Unit 5 Deliverable — Design Gulfs
 
-**Week:** 5 — Design as a Discipline
-**Reading:** *The Design of Everyday Things* — Norman; *The Sciences of the Artificial* (excerpts) — Simon
+**Unit:** 5 — Design as a Discipline
+**Reading:** *The Design of Everyday Things* — Norman
 
 ---
 
@@ -23,4 +23,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-05.md](../weeks/week-05.md)*
+*See unit notes: [../units/unit-05.md](../units/unit-05.md)*

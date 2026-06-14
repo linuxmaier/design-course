@@ -1,6 +1,6 @@
-# Week 9 Deliverable — Quality Audit
+# Unit 10 Deliverable — Quality Audit
 
-**Week:** 9 — Quality as a System Property
+**Unit:** 10 — Quality as a System Property
 **Reading:** *Out of the Crisis* — Deming
 
 ---
@@ -23,4 +23,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-09.md](../weeks/week-09.md)*
+*See unit notes: [../units/unit-10.md](../units/unit-10.md)*

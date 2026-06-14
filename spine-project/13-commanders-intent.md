@@ -1,6 +1,6 @@
-# Week 10 Deliverable — Commander's Intent
+# Unit 11 Deliverable — Commander's Intent
 
-**Week:** 10 — Intent Over Plans
+**Unit:** 11 — Intent Over Plans
 **Reading:** *The Art of Action* — Bungay
 
 ---
@@ -29,4 +29,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-10.md](../weeks/week-10.md)*
+*See unit notes: [../units/unit-11.md](../units/unit-11.md)*

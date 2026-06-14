@@ -1,6 +1,7 @@
-# Week 6 — Managing Complexity
+# Unit 7 — Managing Complexity
 
 **Reading:** *A Philosophy of Software Design* — Ousterhout (2018)
+**Load:** Moderate — readable; the ideas land fast.
 
 ## Reading notes
 
@@ -18,16 +19,16 @@
 
 *Working notes toward the assignment. Drafts, dead ends, thinking-out-loud.*
 
-**Assignment deliverable:** [`spine-project/06-complexity-audit.md`](../spine-project/06-complexity-audit.md)
+**Assignment deliverable:** [`spine-project/08-complexity-audit.md`](../spine-project/08-complexity-audit.md)
 
 ---
 
 ## Reflections
 
-*After completing the week: what changed? What are you carrying forward?*
+*After completing the unit: what changed? What are you carrying forward?*
 
 ---
 
 ## Connections
 
-*Links to other weeks or spine project files where this week's ideas show up.*
+*Links to other units or spine project files where this unit's ideas show up.*

@@ -1,6 +1,6 @@
-# Week 2 Deliverable — Reframes
+# Unit 2 Deliverable — Reframes
 
-**Week:** 2 — Reframing
+**Unit:** 2 — Reframing
 **Reading:** *What's Your Problem?* — Wedell-Wedellsborg
 
 ---
@@ -65,4 +65,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-02.md](../weeks/week-02.md)*
+*See unit notes: [../units/unit-02.md](../units/unit-02.md)*

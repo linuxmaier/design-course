@@ -1,6 +1,6 @@
-# Week 4 Deliverable — Systems Map
+# Unit 4 Deliverable — Systems Map
 
-**Week:** 4 — Systems Literacy
+**Unit:** 4 — Systems Literacy
 **Reading:** *Thinking in Systems* — Meadows
 
 ---
@@ -35,4 +35,4 @@
 
 ---
 
-*See weekly notes: [../weeks/week-04.md](../weeks/week-04.md)*
+*See unit notes: [../units/unit-04.md](../units/unit-04.md)*
