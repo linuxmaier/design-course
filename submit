@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+#
+# submit — copy a blank course template into the gitignored submissions/ area
+#          so you can fill it out without touching the tracked, publishable
+#          template.
+#
+# Usage:
+#   ./submit spine-project/01-problem-statement.md
+#   ./submit units/unit-01.md spine-project/02-reframes.md   # several at once
+#   ./submit --force spine-project/01-problem-statement.md   # overwrite existing
+#
+# Each TEMPLATE is a path relative to the repo root. It is copied to
+# submissions/<same path>, creating directories as needed. An existing
+# submission is never overwritten unless --force is given.
+
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+dest_root="$repo_root/submissions"
+
+force=0
+templates=()
+for arg in "$@"; do
+  case "$arg" in
+    -f|--force) force=1 ;;
+    -h|--help)
+      grep '^#' "${BASH_SOURCE[0]}" | sed 's/^# \{0,1\}//'
+      exit 0
+      ;;
+    -*)
+      echo "submit: unknown option '$arg'" >&2
+      exit 2
+      ;;
+    *) templates+=("$arg") ;;
+  esac
+done
+
+if [ "${#templates[@]}" -eq 0 ]; then
+  echo "submit: no template given. Try: ./submit spine-project/01-problem-statement.md" >&2
+  exit 2
+fi
+
+status=0
+for rel in "${templates[@]}"; do
+  src="$repo_root/$rel"
+  dst="$dest_root/$rel"
+
+  if [ ! -f "$src" ]; then
+    echo "submit: template not found: $rel" >&2
+    status=1
+    continue
+  fi
+
+  if [ -e "$dst" ] && [ "$force" -ne 1 ]; then
+    echo "submit: submission already exists: submissions/$rel (use --force to overwrite)" >&2
+    status=1
+    continue
+  fi
+
+  mkdir -p "$(dirname "$dst")"
+  cp "$src" "$dst"
+  echo "submit: submissions/$rel  <-  $rel"
+done
+
+exit "$status"
