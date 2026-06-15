@@ -31,7 +31,7 @@ Each unit below carries a rough **load** flag (Light / Moderate / Heavy) so you 
 
 ## Your spine project
 
-**Choose this in Unit 1 and carry it the entire course.**
+**Choose this in Unit 0 and carry it the entire course.**
 
 Pick something real: a tool, a workflow, a system, a side project. It needs:
 - A genuine need (a real stakeholder, even if that's just you)
@@ -43,6 +43,29 @@ You will reframe it, design it, plan its delivery, and reflect on it as the unit
 ---
 
 ## Syllabus
+
+### Before you begin — Project Selection
+
+---
+
+#### Unit 0 — Choosing Your Spine Project
+
+**No reading assigned.**
+**Load:** Light — one focused sitting.
+
+Before Unit 1 asks you to apply its concepts to a real project, take one session to find and commit to that project. The full framework with prompts is in [`units/unit-00.md`](units/unit-00.md).
+
+**The three phases:**
+
+1. **Problem inventory** — work through a set of prompts to surface 5–8 candidates. Don't filter yet; the goal is breadth.
+2. **Course-fitness filter** — evaluate each candidate against five criteria: real stakeholder, non-obvious problem, enough complexity, bounded scope, real constraints. A sixth (AI tooling involved) is preferred but not required.
+3. **Commit** — narrow to 2–3, write a paragraph on each, pick one, and articulate why.
+
+**A note on the process:** choosing the spine project is already an exercise in the diagnosis reflex that Unit 1 will name. Most first candidates are solutions dressed as problems ("I'll build a better tool for X"). The inventory phase is designed to surface that pattern before you're committed to it.
+
+**Assignment:** [`spine-project/00-project-selection.md`](spine-project/00-project-selection.md)
+
+---
 
 ### MODULE 1 — Framing the Right Problem (Units 1–3)
 
@@ -521,3 +544,4 @@ Plus three consolidation checkpoints (after Units 3, 8, and 13) and the Unit 14 
 | [initial] | Course created |
 | [date] | Added Further Reading entries: Contextual Design, Emergent Strategy, Sources of Power, The Fearless Organization, Argyris. Added in-week callouts for psychological safety, double-loop learning, NDM, and Contextual Design. |
 | 2026-06-14 | Re-paced from a fixed 12-week grid to a self-paced unit structure. Split the old Week 5 into Unit 5 (Norman) and Unit 6 (Simon, repositioned as the bridge to the complexity material, with a new decomposition assignment). Split the old Week 11 into Unit 12 (Accelerate/DORA) and Unit 13 (Flyvbjerg/forecast). Added three consolidation checkpoints at the module boundaries and per-unit reading-load flags. Renumbered spine-project deliverables (01–17) and renamed `weeks/` to `units/`. |
+| 2026-06-15 | Added Unit 0 (no reading) — a structured three-phase framework for choosing the spine project before Unit 1 begins: problem inventory, course-fitness filter, and a commit step. Added `units/unit-00.md`, `spine-project/00-project-selection.md`. Updated spine-project README and course README accordingly. |

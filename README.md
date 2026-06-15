@@ -7,7 +7,7 @@ This repo is the working home for a self-paced course on three skills that matte
 - **Designing coherent systems** that stay manageable as they grow
 - **Building work processes** that produce stable, sustainable outcomes
 
-The course is organised into **14 reading units** across four modules, plus **three consolidation checkpoints** at the module boundaries. It's paced by the unit, not the calendar — some units are a light read, others are dense and worth two or three sittings. There's no deadline; the goal is retention, not coverage. See `course-design.md` for the full pacing rationale.
+The course starts with **Unit 0** — a no-reading setup session for choosing your spine project — followed by **14 reading units** across four modules and **three consolidation checkpoints** at the module boundaries. It's paced by the unit, not the calendar — some units are a light read, others are dense and worth two or three sittings. There's no deadline; the goal is retention, not coverage. See `course-design.md` for the full pacing rationale.
 
 ## How this repo is organised
 

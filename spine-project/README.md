@@ -8,6 +8,7 @@ This directory holds the deliverables produced by applying each unit's assignmen
 
 | # | Unit / Checkpoint | File | Assignment |
 |---|-------------------|------|------------|
+| 00 | Unit 0 | [00-project-selection.md](00-project-selection.md) | Problem inventory + course-fitness filter + committed choice |
 | 01 | Unit 1 | [01-problem-statement.md](01-problem-statement.md) | Problem statement + ownership + worth-solving check |
 | 02 | Unit 2 | [02-reframes.md](02-reframes.md) | Three genuinely different framings + justified choice |
 | 03 | Unit 3 | [03-strategic-kernel.md](03-strategic-kernel.md) | Diagnosis, guiding policy, coherent actions |
